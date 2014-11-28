@@ -10,20 +10,20 @@ howiehu  | Hao Hu | https://github.com/howiehu
 
 ## 合作培训第一期
 
-Username | Full Name | GitHub Link | Blog 
--------- | --------- | ----------- | -----------    
-zhangtiny123 | Zhang Tao | https://github.com/zhangtiny123  |      
-zhangkehbg | Zhang Ke | https://github.com/zhangkehbg  |     
-minchina | Mao Ningchuan | https://github.com/minchina  | 
-trotyl | Yu Zejiang | https://github.com/trotyl  |    
-Pollyanna111 | Ye Xiaoke | https://github.com/Pollyanna111  |    
+Full Name | GitHub Link | Blog 
+--------- | ----------- | -----------    
+Zhang Tao | https://github.com/zhangtiny123  |      
+Zhang Ke | https://github.com/zhangkehbg  |     
+Mao Ningchuan | https://github.com/minchina  | 
+Yu Zejiang | https://github.com/trotyl  |    
+Ye Xiaoke | https://github.com/Pollyanna111  |    
 
 ## 合作培训第二期
 
-Username | Full Name | GitHub Link | Blog 
--------- | --------- | ----------- | -----------    
-wangzhongbi | Wang Zhongbi | https://github.com/wangzhongbi  |   http://black-black.iteye.com/    
-littletwoblack | Zhang Hang | https://github.com/littletwoblack  | http://littletwoblack.iteye.com/     
-zhaopengn | Zhao Peng | http://github.com/zhaopengn  | http://bugmonster.iteye.com/  
-wfsovereign | FengYang Qijun | http://github.com/wfsovereign  | http://www.cnblogs.com/wfsovereign/    
+Full Name | GitHub Link | Blog 
+--------- | ----------- | -----------    
+Wang Zhongbi | https://github.com/wangzhongbi  |   http://black-black.iteye.com/    
+Zhang Hang | https://github.com/littletwoblack  | http://littletwoblack.iteye.com/     
+Zhao Peng | http://github.com/zhaopengn  | http://bugmonster.iteye.com/  
+FengYang Qijun | http://github.com/wfsovereign  | http://www.cnblogs.com/wfsovereign/    
 

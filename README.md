@@ -8,6 +8,16 @@
 howiehu  | Hao Hu | https://github.com/howiehu
 ```
 
+## 合作培训第一期
+
+Username | Full Name | GitHub Link | Blog 
+-------- | --------- | ----------- | -----------    
+zhangtiny123 | Zhang Tao | https://github.com/zhangtiny123  |      
+zhangkehbg | Zhang Ke | https://github.com/zhangkehbg  |     
+minchina | Mao Ningchuan | https://github.com/minchina  | 
+trotyl | Yu Zejiang | https://github.com/trotyl  |    
+Pollyanna111 | Ye Xiaoke | https://github.com/Pollyanna111  |    
+
 ## 合作培训第二期
 
 Username | Full Name | GitHub Link | Blog 

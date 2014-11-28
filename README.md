@@ -11,7 +11,7 @@ howiehu  | Hao Hu | https://github.com/howiehu
 ## 合作培训第二期
 
 Username | Full Name | GitHub Link | Blog 
--------- | --------- | -----------
+-------- | --------- | ----------- | -----------    
 wangzhongbi | Wang Zhongbi | https://github.com/wangzhongbi  |   http://black-black.iteye.com/    
 littletwoblack | Zhang Hang | https://github.com/littletwoblack  | http://littletwoblack.iteye.com/     
 zhaopengn | Zhao Peng | http://github.com/zhaopengn  | http://bugmonster.iteye.com/  

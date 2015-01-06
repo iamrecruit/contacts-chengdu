@@ -16,13 +16,14 @@ Zhang Tao | https://github.com/zhangtiny123  |
 Zhang Ke | https://github.com/zhangkehbg  |     
 Mao Ningchuan | https://github.com/minchina  | 
 Yu Zejiang | https://github.com/trotyl  |    
-Ye Xiaoke | https://github.com/Pollyanna111  |    
+Ye Xiaoke | https://github.com/Pollyanna111  |  
+Zhou Yong | https://github.com/ZhouYong10 |
 
 ## 合作培训第二期
 
 Full Name | GitHub Link | Blog 
 --------- | ----------- | -----------    
-Wang Zhongbi | https://github.com/wangzhongbi  |   http://black-black.iteye.com/    
+Wang Zhongbi | https://github.com/wangzhongbi  |   http://black-black.iteye.com/    http://www.cnblogs.com/balabala/
 Zhang Hang | https://github.com/littletwoblack  | http://littletwoblack.iteye.com/     
 Zhao Peng | http://github.com/zhaopengn  | http://bugmonster.iteye.com/  
 FengYang Qijun | http://github.com/wfsovereign  | http://www.cnblogs.com/wfsovereign/    
